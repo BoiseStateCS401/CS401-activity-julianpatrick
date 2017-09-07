@@ -36,10 +36,9 @@ li, p {
 
 pre {
 	background-color: white;
-	border: 1.5px solid black;
 }
 
-table, th, td {
+pre, table, th, td {
    border: 1.5px solid black;
 }
 
