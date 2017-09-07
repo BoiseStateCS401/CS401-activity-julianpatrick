@@ -1,0 +1,52 @@
+body {
+	background-color: grey;
+	font-family: sans-serif;
+}
+
+a {
+	text-decoration: none;
+	font-style: italic;
+}
+
+h1 {
+	font-family: fantasy;
+	font-size: 3em;
+	text-align: center;
+}
+
+i {
+	color: deepskyblue;
+}
+
+img {
+	border-radius: 10px;
+}
+
+img:hover {
+	opacity: 0.5;
+}
+
+li {
+	padding-bottom: 10px;
+}
+
+li, p {
+	color: white;
+}
+
+pre {
+	background-color: white;
+	border: 1.5px solid black;
+}
+
+table, th, td {
+   border: 1.5px solid black;
+}
+
+ul {
+	list-style: georgian;
+}
+
+li > ul {
+	list-style: disc;
+}
